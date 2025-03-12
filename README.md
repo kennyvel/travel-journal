@@ -1,8 +1,6 @@
-# React + Vite
+# travel-journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project I worked on to learn some of the basics of React, more specifically rendering how to work with reusable components, and using outside data to fill in components instead of hard coding. I see this as a way to learn how to make my portfolio using React instead of Jekyll and the Minimal Mistakes theme.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To view the project, use this link:
+https://kennyvel.github.io/travel-journal/
